@@ -1,9 +1,9 @@
-# RamSaketh's Portfolio
+# Tanuj Prashanth's Portfolio
 
 Portfolio website developed using HTML5, CSS3, and JavaScript.
-[Visit Here 🚀](https://ramsakethmamidala.github.io/ramsakeths.github.io/)
+[Visit Here 🚀](https://tanujmamidala.github.io/portfolio/)
 
 ## Author
 
-👤 **Ram Saketh Mamidala**  
-Feel free to reach me at [Linkedin](https://www.linkedin.com/in/ram-saketh-mamidala-72883624b/)
+👤 **Tanuj Prashanth Mamidala**  
+Feel free to reach me at [Linkedin](https://www.linkedin.com/in/tanuj-mamidala/)
